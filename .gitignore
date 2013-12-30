@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug
+/obj/Debug
+/packages/Newtonsoft.Json.5.0.8
+/PDFViewer.v12.suo
+/PDFViewer.csproj.user
