@@ -122,6 +122,7 @@
     </AppxManifest>
     <None Include="packages.config" />
     <None Include="PDFViewer_TemporaryKey.pfx" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Logo.scale-100.png" />
